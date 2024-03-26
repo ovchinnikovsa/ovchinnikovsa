@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [ovchie.space](http://ovchie.space/)<br>👯 I’m looking to collaborate on [vantScript](http://ventscript.ovchie.space/), [repo](https://github.com/ovchinnikovsa/ventScript), need some frontend ;) <br>🤝 I’m looking for help with some back end, u can offer ;)<br>🌱 I’m currently learning Laravel & Golang<br>💬 Ask me about how to learn php<br>⚡ Fun fact i returned to vs code
+🔭 I’m currently working on [ovchie.space](http://ovchie.space/)<br>👯 I’m looking to collaborate on [ventScript](http://ventscript.ovchie.space/), [repo](https://github.com/ovchinnikovsa/ventScript), need some frontend ;) <br>🤝 I’m looking for help with some back end, u can offer ;)<br>🌱 I’m currently learning Laravel & Golang<br>💬 Ask me about how to learn php<br>⚡ Fun fact i returned to vs code
 
 
 # 💻 Tech Stack:
